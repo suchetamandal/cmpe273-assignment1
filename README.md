@@ -1,1 +1,1 @@
-# cmpe273-assignment1
+# assignment1-config-example
